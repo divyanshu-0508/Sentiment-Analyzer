@@ -1,4 +1,8 @@
 # Sentiment Analysis with TensorFlow and spaCy
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ## Overview
 
 This project is a sentiment analysis system that leverages deep learning techniques with TensorFlow and sentence vectorization using spaCy.
@@ -7,7 +11,7 @@ The dataset used for training has been preprocessed to ensure balanced sentiment
 
 The goal of this project is to create a scalable and efficient sentiment analysis tool that can be used for customer feedback analysis, brand monitoring, and other applications that require automated sentiment classification.
 
-This project was developed by **Karan Tekchandani and Anuj Sharma**.
+This project is maintained by **Divyanshu Garg**.
 
 ### Key Objectives:
 
@@ -48,7 +52,7 @@ To set up the environment, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/sentiment-analysis.git
+   git clone https://github.com/divyanshu-0508/Sentiment-Analyzer.git
    cd sentiment-analysis
    ```
 
@@ -132,9 +136,7 @@ The sentiment analysis model is a deep neural network with the following archite
 
 ## Contributing
 
-Feel free to contribute by submitting pull requests or reporting issues.
+Contributions, feature requests, and bug reports are welcome. Feel free to open an issue or submit a pull request.
 
-## Developers
-- **Karan Tekchandani** - [GitHub](https://github.com/Karan3705)
-- **Anuj Sharma** - [GitHub](https://github.com/code-anuj17)
-
+## Developer
+- **Divyanshu Garg** - https://github.com/divyanshu-0508
