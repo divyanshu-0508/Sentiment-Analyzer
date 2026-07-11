@@ -11,7 +11,7 @@ The dataset used for training has been preprocessed to ensure balanced sentiment
 
 The goal of this project is to create a scalable and efficient sentiment analysis tool that can be used for customer feedback analysis, brand monitoring, and other applications that require automated sentiment classification.
 
-This project is maintained by **Divyanshu Garg**.
+This project is maintained by **Divyanshu Garg**
 
 ### Key Objectives:
 
